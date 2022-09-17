@@ -29,10 +29,10 @@ jobs:
           plugin_music_mode: top
           plugin_music_provider: spotify
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/05N3Hdz5JMlWt7YVu1laqh
+          # plugin_music_playlist: https://open.spotify.com/embed/playlist/05N3Hdz5JMlWt7YVu1laqh
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_limit: 12
+          plugin_music_limit: 14
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
