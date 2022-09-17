@@ -33,7 +33,7 @@
 
 - :school: I'm currently studying in Nanyang Technological University, Singapore
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentzhao&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentzhao&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Metrics](/github-metrics.svg)
 
