@@ -15,14 +15,14 @@ jobs:
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-      - name: Spotify - Recently listed
+      - name: Spotify
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.music.recent.svg
+          filename: metrics.music.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
@@ -31,10 +31,10 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/embed/playlist/05N3Hdz5JMlWt7YVu1laqh
           plugin_music_mode: recent
           plugin_music_limit: 4
-      - name: Recent activity charts
+      - name: Habits
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes

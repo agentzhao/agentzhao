@@ -1,8 +1,4 @@
-### Hi there, I'm Zhao 👋
-
-<!--
-
--->
+### Hi there, I'm Hong Zhao 👋
 
 <div id="badges">
   <a href="https://agentzhao.me/">
@@ -35,7 +31,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentzhao&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.svg)
-![Metrics](/metrics.plugin.habits.charts.svg)
-![Metrics](/metrics.plugin.music.recent.svg)
+![Metrics](/metrics.isocalendar.svg)
+![Metrics](/metrics.habits.svg)
+![Metrics](/metrics.music.svg)
