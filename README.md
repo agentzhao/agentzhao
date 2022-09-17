@@ -29,6 +29,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/agentzhao/agentzhao/blob/main/isocalendar.svg" alt="Isocalendar" width="100%">
-<img src="https://github.com/agentzhao/agentzhao/blob/main/habits.svg" alt="Habits" width="100%">
-<img src="https://github.com/agentzhao/agentzhao/blob/main/music.svg" alt="Music" width="100%">
+<img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.isocalendar.svg" alt="Isocalendar" width="100%">
+<img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="100%">
+<img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="100%">
