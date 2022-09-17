@@ -17,6 +17,8 @@
 
 ### :technologist: About Me :
 
+- :school: I'm currently studying in Nanyang Technological University, Singapore
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
@@ -27,10 +29,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- :school: I'm currently studying in Nanyang Technological University, Singapore
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentzhao&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Metrics](/metrics.isocalendar.svg)
-![Metrics](/metrics.habits.svg)
-![Metrics](/metrics.music.svg)
+<img src="https://github.com/agentzhao/agentzhao/blob/main/isocalendar.svg" alt="Isocalendar" width="100%">
+<img src="https://github.com/agentzhao/agentzhao/blob/main/habits.svg" alt="Habits" width="100%">
+<img src="https://github.com/agentzhao/agentzhao/blob/main/music.svg" alt="Music" width="100%">
