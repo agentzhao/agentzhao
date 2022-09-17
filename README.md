@@ -30,10 +30,10 @@
 -->
 
 <div>
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.isocalendar.svg" alt="Isocalendar" width="60%" align="left">
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="30%" align="right">
+  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.isocalendar.svg" alt="Isocalendar" width="80%" align="center">
 </div>
 
 <div>
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="80%" align="center">
+  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="45%" align="left">
+  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="45%" align="right">
 </div>
