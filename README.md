@@ -31,7 +31,7 @@
 
 <div>
   <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.isocalendar.svg" alt="Isocalendar" width="60%" align="left">
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="40%" align="right">
+  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="30%" align="right">
 </div>
 
 <div>
