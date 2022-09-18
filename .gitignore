@@ -1,3 +1,2 @@
-metrics.habits.svg
-metrics.isocalendar.svg
-metrics.music.svg
+metrics*
+*.svg
