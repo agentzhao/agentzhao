@@ -15,7 +15,7 @@
   </a>
 </div>
 
-### :technologist: About Me :
+### About Me :
 
 - :school: I'm currently studying in Nanyang Technological University, Singapore
 
