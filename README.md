@@ -34,6 +34,6 @@
 </div>
 
 <div>
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="45%" align="left">
+  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="50%" align="left">
   <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="45%" align="right">
 </div>
