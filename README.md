@@ -5,7 +5,7 @@
     <img alt="Website" src="https://img.shields.io/website?label=agentzhao.me&style=for-the-badge&url=https%3A%2F%2Fagentzhao.me">
   </a>
   <a href="https://gitlab.com/agentzhao">
-    <img alt="Website" src="https://img.shields.io/website?label=gitlab%2Fagentzhao&url=https%3A%2F%2Fgitlab.com%2Fagentzhao">
+    <img alt="Website" src="https://img.shields.io/website?label=gitlab%2Fagentzhao&style=for-the-badge&url=https%3A%2F%2Fgitlab.com%2Fagentzhao">
   </a>
   <a href="https://www.linkedin.com/in/hong-zhao-tan-50a846137/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
