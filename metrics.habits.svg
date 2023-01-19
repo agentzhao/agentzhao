@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.margin-bottom{margin-bottom:16px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code{margin:0 4px -3px}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}.ct-series-g .ct-line,.ct-series-g .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-g .ct-area,.ct-series-g .ct-slice-pie{fill:#cd5c5c}.ct-series-h .ct-line,.ct-series-h .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-h .ct-area,.ct-series-h .ct-slice-pie{fill:#cd5c5c}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.margin-bottom{margin-bottom:16px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code{margin:0 4px -3px}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}.ct-series-g .ct-line,.ct-series-g .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-g .ct-area,.ct-series-g .ct-slice-pie{fill:#cd5c5c}.ct-series-h .ct-line,.ct-series-h .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-h .ct-area,.ct-series-h .ct-slice-pie{fill:#cd5c5c}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 69.8 characters per line of code written</li>
+                        <li>Has approximately 69.3 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -107,24 +107,23 @@
                                     <!-- (optimized css) -->
                                     <g class="ct-grids">
                                         <line y1="125" y2="125" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="103" y2="103" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="81" y2="81" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="59" y2="59" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="37" y2="37" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="97.5" y2="97.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="70" y2="70" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="42.5" y2="42.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                         <line y1="15" y2="15" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,59C39.5,44.333,49,15,58.5,15C68,15,77.5,125,87,125C96.5,125,106,59,115.5,59C125,59,134.5,103,144,103C153.5,103,163,59,172.5,59C182,59,191.5,59,201,59L201,125Z" class="ct-area"/>
-                                            <path d="M30,59C39.5,44.333,49,15,58.5,15C68,15,77.5,125,87,125C96.5,125,106,59,115.5,59C125,59,134.5,103,144,103C153.5,103,163,59,172.5,59C182,59,191.5,59,201,59" class="ct-line"/>
-                                            <line x1="30" y1="59" x2="30.01" y2="59" class="ct-point" ct:value="3"/>
-                                            <line x1="58.5" y1="15" x2="58.51" y2="15" class="ct-point" ct:value="5"/>
+                                            <path d="M30,125L30,42.5C39.5,33.333,49,15,58.5,15C68,15,77.5,125,87,125C96.5,125,106,15,115.5,15C125,15,134.5,97.5,144,97.5C153.5,97.5,163,42.5,172.5,42.5C182,42.5,191.5,42.5,201,42.5L201,125Z" class="ct-area"/>
+                                            <path d="M30,42.5C39.5,33.333,49,15,58.5,15C68,15,77.5,125,87,125C96.5,125,106,15,115.5,15C125,15,134.5,97.5,144,97.5C153.5,97.5,163,42.5,172.5,42.5C182,42.5,191.5,42.5,201,42.5" class="ct-line"/>
+                                            <line x1="30" y1="42.5" x2="30.01" y2="42.5" class="ct-point" ct:value="3"/>
+                                            <line x1="58.5" y1="15" x2="58.51" y2="15" class="ct-point" ct:value="4"/>
                                             <line x1="87" y1="125" x2="87.01" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="115.5" y1="59" x2="115.51" y2="59" class="ct-point" ct:value="3"/>
-                                            <line x1="144" y1="103" x2="144.01" y2="103" class="ct-point" ct:value="1"/>
-                                            <line x1="172.5" y1="59" x2="172.51" y2="59" class="ct-point" ct:value="3"/>
-                                            <line x1="201" y1="59" x2="201.01" y2="59" class="ct-point" ct:value="3"/>
-                                        <text x="30" y="54" class="ct-post">3</text><text x="58.5" y="10" class="ct-post">5</text><text x="115.5" y="54" class="ct-post">3</text><text x="144" y="98" class="ct-post">1</text><text x="172.5" y="54" class="ct-post">3</text><text x="201" y="54" class="ct-post">3</text></g>
+                                            <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="4"/>
+                                            <line x1="144" y1="97.5" x2="144.01" y2="97.5" class="ct-point" ct:value="1"/>
+                                            <line x1="172.5" y1="42.5" x2="172.51" y2="42.5" class="ct-point" ct:value="3"/>
+                                            <line x1="201" y1="42.5" x2="201.01" y2="42.5" class="ct-point" ct:value="3"/>
+                                        <text x="30" y="37.5" class="ct-post">3</text><text x="58.5" y="10" class="ct-post">4</text><text x="115.5" y="10" class="ct-post">4</text><text x="144" y="92.5" class="ct-post">1</text><text x="172.5" y="37.5" class="ct-post">3</text><text x="201" y="37.5" class="ct-post">3</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -147,38 +146,38 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M118.434,5.729A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.0008415820663896759"/>
+                                        <path d="M181.815,66.72A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.009666821242882123"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M182.084,68.311A75,75,0,0,0,118.174,5.693L108,80Z" class="ct-slice-pie" ct:value="0.007686629364920234"/>
+                                        <path d="M87.352,152.102A75,75,0,0,0,181.768,66.462L108,80Z" class="ct-slice-pie" ct:value="0.014073583639581876"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M112.482,154.866A75,75,0,0,0,182.042,68.053L108,80Z" class="ct-slice-pie" ct:value="0.010054927615850156"/>
+                                        <path d="M78.835,149.097A75,75,0,0,0,87.604,152.173L108,80Z" class="ct-slice-pie" ct:value="0.0008363198709065225"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M109.8,154.978A75,75,0,0,0,112.743,154.85L108,80Z" class="ct-slice-pie" ct:value="0.00021579027343325024"/>
+                                        <path d="M39.072,109.563A75,75,0,0,0,79.076,149.198L108,80Z" class="ct-slice-pie" ct:value="0.005318136614995322"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M78.666,149.025A75,75,0,0,0,110.062,154.972L108,80Z" class="ct-slice-pie" ct:value="0.0025679042538556776"/>
+                                        <path d="M69.677,15.53A75,75,0,0,0,39.176,109.803L108,80Z" class="ct-slice-pie" ct:value="0.00999205674823466"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M68.072,143.488A75,75,0,0,0,78.907,149.127L108,80Z" class="ct-slice-pie" ct:value="0.0009620649690565739"/>
+                                        <path d="M71.687,14.377A75,75,0,0,0,69.453,15.664L108,80Z" class="ct-slice-pie" ct:value="0.00021444099254013397"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M49.507,33.057A75,75,0,0,0,68.294,143.627L108,80Z" class="ct-slice-pie" ct:value="0.01016462100484539"/>
+                                        <path d="M97.702,5.71A75,75,0,0,0,71.458,14.504L108,80Z" class="ct-slice-pie" ct:value="0.002551847811227594"/>
                                     </g>
                                     <g class="ct-series ct-series-h">
-                                        <path d="M108,5A75,75,0,0,0,49.344,33.262L108,80Z" class="ct-slice-pie" ct:value="0.00539385770969195"/>
+                                        <path d="M108,5A75,75,0,0,0,97.442,5.747L108,80Z" class="ct-slice-pie" ct:value="0.000956049425074764"/>
                                     </g>
                                     <g>
-                                        <text dx="110.6147521655332" dy="42.591270121630174" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="134.29117558373434" dy="53.260065698935406" text-anchor="middle" class="ct-label">Lua</text>
-                                        <text dx="137.22356190180304" dy="103.49964743930184" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="109.57078395150434" dy="117.4670873938407" text-anchor="middle" class="ct-label">Dockerfile</text>
-                                        <text dx="100.95749258777957" dy="116.83277194766666" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="90.62927282703444" dy="113.23413662911068" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="71.0189378090266" dy="86.21699599705173" text-anchor="middle" class="ct-label">Vue</text>
-                                        <text dx="91.78155710997635" dy="46.18858018031421" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="132.05457413715098" dy="51.23148486486821" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="133.14562752547744" dy="107.81991043030065" text-anchor="middle" class="ct-label">Vue</text>
+                                        <text dx="95.524174641896" dy="115.36387679022323" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="81.55998514891036" dy="106.59277373036065" text-anchor="middle" class="ct-label">Lua</text>
+                                        <text dx="72.34120316421028" dy="68.39395811553854" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="89.33891210184895" dy="47.47287595778747" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="96.1474960287112" dy="44.422364474144956" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="105.41928883541314" dy="42.58890632599768" text-anchor="middle" class="ct-label">Python</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
