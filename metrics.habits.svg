@@ -19,7 +19,7 @@
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 32.2 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
             </section>
@@ -32,16 +32,15 @@
                                 <!-- (optimized css) -->
                                 <g class="ct-grids">
                                     <line y1="125" y2="125" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="103" y2="103" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="81" y2="81" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="59" y2="59" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="37" y2="37" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="97.5" y2="97.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="70" y2="70" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="42.5" y2="42.5" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                     <line y1="15" y2="15" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,103,219.13,103C225.435,103,231.739,103,238.043,103C244.348,103,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,15,294.783,15C301.087,15,307.391,81,313.696,81C320,81,326.304,59,332.609,59C338.913,59,345.217,103,351.522,103C357.826,103,364.13,103,370.435,103C376.739,103,383.043,125,389.348,125C395.652,125,401.957,103,408.261,103C414.565,103,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,125,465,125L465,125Z" class="ct-area"/>
-                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,103,219.13,103C225.435,103,231.739,103,238.043,103C244.348,103,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,15,294.783,15C301.087,15,307.391,81,313.696,81C320,81,326.304,59,332.609,59C338.913,59,345.217,103,351.522,103C357.826,103,364.13,103,370.435,103C376.739,103,383.043,125,389.348,125C395.652,125,401.957,103,408.261,103C414.565,103,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,125,465,125" class="ct-line"/>
+                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,70,219.13,70C225.435,70,231.739,88.333,238.043,97.5C244.348,106.667,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,15,294.783,15C301.087,15,307.391,70,313.696,70C320,70,326.304,42.5,332.609,42.5C338.913,42.5,345.217,97.5,351.522,97.5C357.826,97.5,364.13,97.5,370.435,97.5C376.739,97.5,383.043,125,389.348,125C395.652,125,401.957,97.5,408.261,97.5C414.565,97.5,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,125,465,125L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,70,219.13,70C225.435,70,231.739,88.333,238.043,97.5C244.348,106.667,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,15,294.783,15C301.087,15,307.391,70,313.696,70C320,70,326.304,42.5,332.609,42.5C338.913,42.5,345.217,97.5,351.522,97.5C357.826,97.5,364.13,97.5,370.435,97.5C376.739,97.5,383.043,125,389.348,125C395.652,125,401.957,97.5,408.261,97.5C414.565,97.5,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,125,465,125" class="ct-line"/>
                                         <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
@@ -52,21 +51,21 @@
                                         <line x1="162.3913043478261" y1="125" x2="162.40130434782608" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="181.30434782608697" y1="125" x2="181.31434782608696" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="200.21739130434784" y1="125" x2="200.22739130434783" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="219.13043478260872" y1="103" x2="219.1404347826087" y2="103" class="ct-point" ct:value="1"/>
-                                        <line x1="238.0434782608696" y1="103" x2="238.05347826086958" y2="103" class="ct-point" ct:value="1"/>
+                                        <line x1="219.13043478260872" y1="70" x2="219.1404347826087" y2="70" class="ct-point" ct:value="2"/>
+                                        <line x1="238.0434782608696" y1="97.5" x2="238.05347826086958" y2="97.5" class="ct-point" ct:value="1"/>
                                         <line x1="256.95652173913044" y1="125" x2="256.9665217391304" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="275.8695652173913" y1="125" x2="275.8795652173913" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="294.7826086956522" y1="15" x2="294.7926086956522" y2="15" class="ct-point" ct:value="5"/>
-                                        <line x1="313.69565217391306" y1="81" x2="313.70565217391305" y2="81" class="ct-point" ct:value="2"/>
-                                        <line x1="332.60869565217394" y1="59" x2="332.6186956521739" y2="59" class="ct-point" ct:value="3"/>
-                                        <line x1="351.5217391304348" y1="103" x2="351.5317391304348" y2="103" class="ct-point" ct:value="1"/>
-                                        <line x1="370.4347826086957" y1="103" x2="370.4447826086957" y2="103" class="ct-point" ct:value="1"/>
+                                        <line x1="294.7826086956522" y1="15" x2="294.7926086956522" y2="15" class="ct-point" ct:value="4"/>
+                                        <line x1="313.69565217391306" y1="70" x2="313.70565217391305" y2="70" class="ct-point" ct:value="2"/>
+                                        <line x1="332.60869565217394" y1="42.5" x2="332.6186956521739" y2="42.5" class="ct-point" ct:value="3"/>
+                                        <line x1="351.5217391304348" y1="97.5" x2="351.5317391304348" y2="97.5" class="ct-point" ct:value="1"/>
+                                        <line x1="370.4347826086957" y1="97.5" x2="370.4447826086957" y2="97.5" class="ct-point" ct:value="1"/>
                                         <line x1="389.34782608695656" y1="125" x2="389.35782608695655" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="408.26086956521743" y1="103" x2="408.2708695652174" y2="103" class="ct-point" ct:value="1"/>
+                                        <line x1="408.26086956521743" y1="97.5" x2="408.2708695652174" y2="97.5" class="ct-point" ct:value="1"/>
                                         <line x1="427.1739130434783" y1="125" x2="427.1839130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="446.0869565217392" y1="125" x2="446.0969565217392" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="465.00000000000006" y1="125" x2="465.01000000000005" y2="125" class="ct-point" ct:value="0"/>
-                                    <text x="219.13043478260872" y="98" class="ct-post">1</text><text x="238.0434782608696" y="98" class="ct-post">1</text><text x="294.7826086956522" y="10" class="ct-post">5</text><text x="313.69565217391306" y="76" class="ct-post">2</text><text x="332.60869565217394" y="54" class="ct-post">3</text><text x="351.5217391304348" y="98" class="ct-post">1</text><text x="370.4347826086957" y="98" class="ct-post">1</text><text x="408.26086956521743" y="98" class="ct-post">1</text></g>
+                                    <text x="219.13043478260872" y="65" class="ct-post">2</text><text x="238.0434782608696" y="92.5" class="ct-post">1</text><text x="294.7826086956522" y="10" class="ct-post">4</text><text x="313.69565217391306" y="65" class="ct-post">2</text><text x="332.60869565217394" y="37.5" class="ct-post">3</text><text x="351.5217391304348" y="92.5" class="ct-post">1</text><text x="370.4347826086957" y="92.5" class="ct-post">1</text><text x="408.26086956521743" y="92.5" class="ct-post">1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -109,23 +108,24 @@
                                     <!-- (optimized css) -->
                                     <g class="ct-grids">
                                         <line y1="125" y2="125" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="97.5" y2="97.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="70" y2="70" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="42.5" y2="42.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="103" y2="103" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="81" y2="81" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="59" y2="59" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="37" y2="37" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                         <line y1="15" y2="15" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,106.667,49,88.333,58.5,70C68,51.667,77.5,15,87,15C96.5,15,106,15,115.5,15C125,15,134.5,30.278,144,42.5C153.5,54.722,163,97.5,172.5,97.5C182,97.5,191.5,97.5,201,97.5L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,106.667,49,88.333,58.5,70C68,51.667,77.5,15,87,15C96.5,15,106,15,115.5,15C125,15,134.5,30.278,144,42.5C153.5,54.722,163,97.5,172.5,97.5C182,97.5,191.5,97.5,201,97.5" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,117.667,49,114,58.5,103C68,92,77.5,48,87,37C96.5,26,106,15,115.5,15C125,15,134.5,44.333,144,59C153.5,73.667,163,103,172.5,103C182,103,191.5,103,201,103L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,117.667,49,114,58.5,103C68,92,77.5,48,87,37C96.5,26,106,15,115.5,15C125,15,134.5,44.333,144,59C153.5,73.667,163,103,172.5,103C182,103,191.5,103,201,103" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="58.5" y1="70" x2="58.51" y2="70" class="ct-point" ct:value="2"/>
-                                            <line x1="87" y1="15" x2="87.01" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="144" y1="42.5" x2="144.01" y2="42.5" class="ct-point" ct:value="3"/>
-                                            <line x1="172.5" y1="97.5" x2="172.51" y2="97.5" class="ct-point" ct:value="1"/>
-                                            <line x1="201" y1="97.5" x2="201.01" y2="97.5" class="ct-point" ct:value="1"/>
-                                        <text x="58.5" y="65" class="ct-post">2</text><text x="87" y="10" class="ct-post">4</text><text x="115.5" y="10" class="ct-post">4</text><text x="144" y="37.5" class="ct-post">3</text><text x="172.5" y="92.5" class="ct-post">1</text><text x="201" y="92.5" class="ct-post">1</text></g>
+                                            <line x1="58.5" y1="103" x2="58.51" y2="103" class="ct-point" ct:value="1"/>
+                                            <line x1="87" y1="37" x2="87.01" y2="37" class="ct-point" ct:value="4"/>
+                                            <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="5"/>
+                                            <line x1="144" y1="59" x2="144.01" y2="59" class="ct-point" ct:value="3"/>
+                                            <line x1="172.5" y1="103" x2="172.51" y2="103" class="ct-point" ct:value="1"/>
+                                            <line x1="201" y1="103" x2="201.01" y2="103" class="ct-point" ct:value="1"/>
+                                        <text x="58.5" y="98" class="ct-post">1</text><text x="87" y="32" class="ct-post">4</text><text x="115.5" y="10" class="ct-post">5</text><text x="144" y="54" class="ct-post">3</text><text x="172.5" y="98" class="ct-post">1</text><text x="201" y="98" class="ct-post">1</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -148,42 +148,42 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M108.027,5A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.000031974978126208144"/>
+                                        <path d="M34.243,93.597A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.4020587274677319"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108.027,5A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0"/>
+                                        <path d="M34.238,93.57A75,75,0,0,0,34.291,93.854L108,80Z" class="ct-slice-pie" ct:value="0.000031864362100817394"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M34.394,94.394A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.40013778308756204"/>
+                                        <path d="M34.238,93.57A75,75,0,0,0,34.286,93.828L108,80Z" class="ct-slice-pie" ct:value="0"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M34.324,94.032A75,75,0,0,0,34.445,94.651L108,80Z" class="ct-slice-pie" ct:value="0.0004360224289937474"/>
+                                        <path d="M34.172,93.209A75,75,0,0,0,34.286,93.828L108,80Z" class="ct-slice-pie" ct:value="0.0004345140286475099"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M33.418,87.908A75,75,0,0,0,34.374,94.289L108,80Z" class="ct-slice-pie" ct:value="0.0073106427261284985"/>
+                                        <path d="M33.345,87.187A75,75,0,0,0,34.219,93.467L108,80Z" class="ct-slice-pie" ct:value="0.007195552314402764"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M33.091,83.702A75,75,0,0,0,33.446,88.168L108,80Z" class="ct-slice-pie" ct:value="0.004981556251253565"/>
+                                        <path d="M33.06,83.002A75,75,0,0,0,33.371,87.447L108,80Z" class="ct-slice-pie" ct:value="0.004964322777297801"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M49.892,32.582A75,75,0,0,0,33.105,83.963L108,80Z" class="ct-slice-pie" ct:value="0.06497824248079322"/>
+                                        <path d="M50.135,32.285A75,75,0,0,0,33.071,83.263L108,80Z" class="ct-slice-pie" ct:value="0.06475345311919517"/>
                                     </g>
                                     <g class="ct-series ct-series-h">
-                                        <path d="M103.073,5.162A75,75,0,0,0,49.727,32.785L108,80Z" class="ct-slice-pie" ct:value="0.07266313779180801"/>
+                                        <path d="M103.102,5.16A75,75,0,0,0,49.969,32.488L108,80Z" class="ct-slice-pie" ct:value="0.07241176287410753"/>
                                     </g>
                                     <g class="ct-series ct-series-i">
-                                        <path d="M108,5A75,75,0,0,0,102.812,5.18L108,80Z" class="ct-slice-pie" ct:value="0.005820899427066528"/>
+                                        <path d="M108,5A75,75,0,0,0,102.84,5.178L108,80Z" class="ct-slice-pie" ct:value="0.005800762282444257"/>
                                     </g>
                                     <g>
-                                        <text dx="108.00677072684773" dy="42.500000611236565" text-anchor="middle" class="ct-label">Dockerfile</text>
-                                        <text dx="108.01354145347474" dy="42.50000244494624" text-anchor="middle" class="ct-label">Jupyter Notebook</text>
-                                        <text dx="136.94515466878232" dy="103.84172856988914" text-anchor="middle" class="ct-label">Dart</text>
-                                        <text dx="71.17952037384715" dy="87.10649562724578" text-anchor="middle" class="ct-label">Kotlin</text>
-                                        <text dx="70.90398152402975" dy="85.4895731373644" text-anchor="middle" class="ct-label">Swift</text>
-                                        <text dx="70.61257928944002" dy="82.90357927592665" text-anchor="middle" class="ct-label">C</text>
-                                        <text dx="72.37469968015928" dy="68.2915424960776" text-anchor="middle" class="ct-label">CMake</text>
-                                        <text dx="90.8150133709353" dy="46.669439930315185" text-anchor="middle" class="ct-label">C++</text>
-                                        <text dx="106.76764187269262" dy="42.52025489086059" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="136.82003859722477" dy="103.99281924356691" text-anchor="middle" class="ct-label">Dart</text>
+                                        <text dx="71.12016811745755" dy="86.79175973628382" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="71.11894951165806" dy="86.78513926727908" text-anchor="middle" class="ct-label">Jupyter Notebook</text>
+                                        <text dx="71.10245077783489" dy="86.69483841462235" text-anchor="middle" class="ct-label">Kotlin</text>
+                                        <text dx="70.84884510809145" dy="85.1031059363313" text-anchor="middle" class="ct-label">Swift</text>
+                                        <text dx="70.58667240197377" dy="82.54812049219981" text-anchor="middle" class="ct-label">C</text>
+                                        <text dx="72.46023769257111" dy="68.03441204405497" text-anchor="middle" class="ct-label">CMake</text>
+                                        <text dx="90.90656564104526" dy="46.62239520552582" text-anchor="middle" class="ct-label">C++</text>
+                                        <text dx="106.77474508696432" dy="42.52002200643546" text-anchor="middle" class="ct-label">HTML</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
