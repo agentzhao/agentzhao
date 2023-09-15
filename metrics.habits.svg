@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 91.7 characters per line of code written</li>
+                        <li>Has approximately 31.7 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -288,38 +288,23 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-26.416,75.513L0,0Z">
-                                        <title>JavaScript
-4.30</title>
-                                    </path>
-                                    <path fill="#3178c6" d="M-27.357,75.177L0,0Z">
-                                        <title>TypeScript
-0.00</title>
-                                    </path>
-                                    <path fill="#89e051" d="M-28.295,74.829A80,80,0,0,1,-75.91,25.252L0,0Z">
+                                    <path fill="#89e051" d="M0.5,-79.998A80,80,0,0,1,72.259,34.331L0,0Z">
                                         <title>Shell
-1.10</title>
+15.88</title>
                                     </path>
-                                    <path fill="#000080" d="M-76.22,24.301A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#000080" d="M71.824,35.231A80,80,0,1,1,-0.5,-79.998L0,0Z">
                                         <title>Lua
-2.32</title>
+33.61</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(39.41401677756552,6.821677319969296)">
-                                        <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">4.30</tspan>
-                                    </text>
-                                    <text transform="translate(-13.678678841424015,37.58847888852619)">
-                                        <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                    </text>
-                                    <text transform="translate(-28.849393842345805,27.707624851820487)">
+                                    <text transform="translate(33.87946417555823,-21.264569292065765)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
-                                        <tspan x="0" y="1.1em">1.10</tspan>
+                                        <tspan x="0" y="1.1em">15.88</tspan>
                                     </text>
-                                    <text transform="translate(-32.369254932829996,-23.499602870973394)">
+                                    <text transform="translate(-33.879464175558226,21.26456929206578)">
                                         <tspan x="0" y="0em" font-weight="bold">Lua</tspan>
-                                        <tspan x="0" y="1.1em">2.32</tspan>
+                                        <tspan x="0" y="1.1em">33.61</tspan>
                                     </text>
                                 </g>
                             </svg>
