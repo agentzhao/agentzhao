@@ -280,36 +280,36 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-79.28,-10.708L0,0Z">
+                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-79.356,-10.128L0,0Z">
                                         <title>JavaScript
-75.97</title>
+75.77</title>
                                     </path>
-                                    <path fill="#3572A5" d="M-79.14,-11.698A80,80,0,0,1,-7.332,-79.663L0,0Z">
+                                    <path fill="#3572A5" d="M-79.224,-11.119A80,80,0,0,1,-6.168,-79.762L0,0Z">
                                         <title>Python
-20.91</title>
+21.23</title>
                                     </path>
-                                    <path fill="#384d54" d="M-6.336,-79.749A80,80,0,0,1,-5.421,-79.816L0,0Z">
+                                    <path fill="#384d54" d="M-5.17,-79.833A80,80,0,0,1,-4.203,-79.89L0,0Z">
                                         <title>Dockerfile
-0.18</title>
+0.19</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-4.423,-79.878A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3178c6" d="M-3.204,-79.936A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>TypeScript
-0.77</title>
+0.53</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(26.22919711448342,30.199821501617762)">
+                                    <text transform="translate(26.33938064810036,30.10377097764458)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">75.97</tspan>
+                                        <tspan x="0" y="1.1em">75.77</tspan>
                                     </text>
-                                    <text transform="translate(-27.496299553638156,-29.05087797049511)">
+                                    <text transform="translate(-27.390166838771854,-29.15096500193849)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">20.91</tspan>
+                                        <tspan x="0" y="1.1em">21.23</tspan>
                                     </text>
-                                    <text transform="translate(-2.939126124308501,-39.891873077425274)">
+                                    <text transform="translate(-2.3433120211607767,-39.9313021171547)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-1.2310082342311417,-39.9810532468475)">
+                                    <text transform="translate(-0.9260507417806417,-39.98927893853111)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                     </text>
                                 </g>
