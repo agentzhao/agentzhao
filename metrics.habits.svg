@@ -284,50 +284,50 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-78.394,-15.952L0,0Z">
+                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-76.119,-24.614L0,0Z">
                                         <title>JavaScript
-46.38</title>
+45.45</title>
                                     </path>
-                                    <path fill="#3572A5" d="M-78.188,-16.93A80,80,0,0,1,-10.563,-79.3L0,0Z">
+                                    <path fill="#3572A5" d="M-75.806,-25.564A80,80,0,0,1,-10.039,-79.368L0,0Z">
                                         <title>Python
-11.58</title>
+10.14</title>
                                     </path>
-                                    <path fill="#89e051" d="M-9.571,-79.425A80,80,0,0,1,-9.403,-79.445L0,0Z">
+                                    <path fill="#89e051" d="M-9.046,-79.487A80,80,0,0,1,-8.871,-79.507L0,0Z">
                                         <title>Shell
 0.02</title>
                                     </path>
-                                    <path fill="#000080" d="M-8.409,-79.557A80,80,0,0,1,-7.398,-79.657L0,0Z">
+                                    <path fill="#000080" d="M-7.876,-79.611A80,80,0,0,1,-6.996,-79.693L0,0Z">
                                         <title>Lua
-0.12</title>
+0.10</title>
                                     </path>
-                                    <path fill="#384d54" d="M-6.402,-79.743A80,80,0,0,1,-4.882,-79.851L0,0Z">
+                                    <path fill="#384d54" d="M-6,-79.775A80,80,0,0,1,-4.589,-79.868L0,0Z">
                                         <title>Dockerfile
-0.18</title>
+0.16</title>
                                     </path>
-                                    <path fill="#427819" d="M-3.884,-79.906A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#427819" d="M-3.591,-79.919A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Makefile
-0.40</title>
+0.35</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(25.210875648879988,31.054979456066462)">
+                                    <text transform="translate(23.432992428079658,32.417508631379455)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">46.38</tspan>
+                                        <tspan x="0" y="1.1em">45.45</tspan>
                                     </text>
-                                    <text transform="translate(-27.118589981743746,-29.40377658400478)">
+                                    <text transform="translate(-25.32803478381458,-30.95950022190085)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">11.58</tspan>
+                                        <tspan x="0" y="1.1em">10.14</tspan>
                                     </text>
-                                    <text transform="translate(-4.743454595748186,-39.717749665584975)">
+                                    <text transform="translate(-4.4791663208383,-39.748422221143166)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-3.9519530557384086,-39.80429709271651)">
+                                    <text transform="translate(-3.7181811336191077,-39.826814196689135)">
                                         <tspan x="0" y="0em" font-weight="bold">Lua</tspan>
                                     </text>
-                                    <text transform="translate(-2.821282535789355,-39.9003805101311)">
+                                    <text transform="translate(-2.6474014620310005,-39.91229466591511)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-1.096241089237325,-39.984975371685145)">
+                                    <text transform="translate(-1.0228749183278525,-39.986919447507525)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
                                 </g>
