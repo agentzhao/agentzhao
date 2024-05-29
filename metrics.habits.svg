@@ -280,35 +280,35 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-32.651,-73.034L0,0Z">
+                                    <path fill="#f1e05a" d="M0.5,-79.998A80,80,0,1,1,-32.953,-72.898L0,0Z">
                                         <title>JavaScript
-90.18</title>
+90.06</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-31.736,-73.436A80,80,0,0,1,-14.32,-78.708L0,0Z">
+                                    <path fill="#3178c6" d="M-32.039,-73.304A80,80,0,0,1,-14.429,-78.688L0,0Z">
                                         <title>TypeScript
-3.51</title>
+3.55</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-13.335,-78.881A80,80,0,0,1,-13.232,-78.898L0,0Z">
+                                    <path fill="#3178c6" d="M-13.445,-78.862A80,80,0,0,1,-13.342,-78.88L0,0Z">
                                         <title>TSX
 0.02</title>
                                     </path>
-                                    <path fill="#3572A5" d="M-12.245,-79.057A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3572A5" d="M-12.355,-79.04A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Python
-2.27</title>
+2.29</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(8.224258736638353,39.1453901274828)">
+                                    <text transform="translate(8.305166429341375,39.12830446851666)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">90.18</tspan>
+                                        <tspan x="0" y="1.1em">90.06</tspan>
                                     </text>
-                                    <text transform="translate(-11.589118136722373,-38.284361569877234)">
+                                    <text transform="translate(-11.694878184689799,-38.252187182503256)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                     </text>
-                                    <text transform="translate(-6.641854080979433,-39.44471795268635)">
+                                    <text transform="translate(-6.696765860984692,-39.43543238007097)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
                                     </text>
-                                    <text transform="translate(-3.1949843671546634,-39.87219676533558)">
+                                    <text transform="translate(-3.2227321960529363,-39.86996359657886)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
                                     </text>
                                 </g>
