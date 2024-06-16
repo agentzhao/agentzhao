@@ -284,44 +284,72 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,79.676,-7.194L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,0,1,77.822,18.539L0,0Z">
                                         <title>Python
-22.07</title>
+26.74</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M79.76,-6.198A80,80,0,1,1,-20.893,-77.224L0,0Z">
+                                    <path fill="#f1e05a" d="M77.584,19.51A80,80,0,1,1,-27.532,-75.113L0,0Z">
                                         <title>JavaScript
-67.74</title>
+61.18</title>
                                     </path>
-                                    <path fill="#384d54" d="M-19.926,-77.479A80,80,0,0,1,-17.796,-77.995L0,0Z">
+                                    <path fill="#384d54" d="M-26.591,-75.451A80,80,0,0,1,-24.961,-76.006L0,0Z">
                                         <title>Dockerfile
-0.41</title>
+0.32</title>
                                     </path>
-                                    <path fill="#427819" d="M-16.82,-78.212A80,80,0,0,1,-14.724,-78.633L0,0Z">
+                                    <path fill="#000080" d="M-24.009,-76.312A80,80,0,0,1,-23.855,-76.36L0,0Z">
+                                        <title>Lua
+0.03</title>
+                                    </path>
+                                    <path fill="#563d7c" d="M-22.899,-76.653A80,80,0,0,1,-21.607,-77.027L0,0Z">
+                                        <title>CSS
+0.25</title>
+                                    </path>
+                                    <path fill="#C1F12E" d="M-20.643,-77.291A80,80,0,0,1,-19.027,-77.704L0,0Z">
+                                        <title>Batchfile
+0.31</title>
+                                    </path>
+                                    <path fill="#427819" d="M-18.054,-77.936A80,80,0,0,1,-16.425,-78.296L0,0Z">
                                         <title>Makefile
-0.40</title>
+0.31</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-13.74,-78.811A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3178c6" d="M-15.445,-78.495A80,80,0,0,1,-1.608,-79.984L0,0Z">
                                         <title>TypeScript
-2.49</title>
+2.59</title>
+                                    </path>
+                                    <path fill="#3178c6" d="M-0.608,-79.998A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                        <title>TSX
+0.02</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(27.07470972957345,-29.44418606549247)">
+                                    <text transform="translate(31.468245843673888,-24.69310639676793)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">22.07</tspan>
+                                        <tspan x="0" y="1.1em">26.74</tspan>
                                     </text>
-                                    <text transform="translate(-23.06241027170326,32.682185246088366)">
+                                    <text transform="translate(-26.761437430635596,29.729202253780308)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">67.74</tspan>
+                                        <tspan x="0" y="1.1em">61.18</tspan>
                                     </text>
-                                    <text transform="translate(-9.431434684434997,-38.87220137570339)">
+                                    <text transform="translate(-12.888943249716895,-37.866543833647896)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-7.886747775426434,-39.21478304832001)">
+                                    <text transform="translate(-11.96622810069329,-38.16817240898728)">
+                                        <tspan x="0" y="0em" font-weight="bold">Lua</tspan>
+                                    </text>
+                                    <text transform="translate(-11.12693699121298,-38.42123466513767)">
+                                        <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
+                                    </text>
+                                    <text transform="translate(-9.917877273518759,-38.75094463864617)">
+                                        <tspan x="0" y="0em" font-weight="bold">Batchfile</tspan>
+                                    </text>
+                                    <text transform="translate(-8.620289839447636,-39.06008964510855)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(-3.5723752172177576,-39.84015732031449)">
+                                    <text transform="translate(-4.2794293669443055,-39.77042222925644)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
+                                    </text>
+                                    <text transform="translate(-0.27689995867533856,-39.99904156867869)">
+                                        <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
                                     </text>
                                 </g>
                             </svg>
