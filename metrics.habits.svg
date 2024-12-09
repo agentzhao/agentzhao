@@ -12,12 +12,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 124 commits)</small>
+                    <small class="h-details">(computed from last 121 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.5 characters per line of code written</li>
+                        <li>Has approximately 33.3 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -141,8 +141,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,101.042L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,73.333L225.217,57.5L244.783,45.625L264.348,25.833L283.913,10L303.478,77.292L323.043,97.083L342.609,69.375L362.174,85.208L381.739,101.042L401.304,65.417L420.87,85.208L440.435,89.167L460,101.042" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,101.042L440.435,89.167L420.87,85.208L401.304,65.417L381.739,101.042L362.174,85.208L342.609,69.375L323.043,97.083L303.478,77.292L283.913,10L264.348,25.833L244.783,45.625L225.217,57.5L205.652,73.333L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,101.042Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,101.042L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,73.333L225.217,57.5L244.783,45.625L264.348,25.833L283.913,10L303.478,77.292L323.043,105L342.609,69.375L362.174,85.208L381.739,101.042L401.304,65.417L420.87,89.167L440.435,89.167L460,101.042" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,101.042L440.435,89.167L420.87,89.167L401.304,65.417L381.739,101.042L362.174,85.208L342.609,69.375L323.043,105L303.478,77.292L283.913,10L264.348,25.833L244.783,45.625L225.217,57.5L205.652,73.333L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,101.042Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="101.04166666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc"/>
@@ -160,12 +160,12 @@
                                 <circle transform="translate(10,10)" cx="264.3478260869565" cy="25.83333333333333" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="10" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="77.29166666666666" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="97.08333333333333" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="69.375" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="85.20833333333333" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="381.7391304347826" cy="101.04166666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="401.30434782608694" cy="65.41666666666666" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="420.8695652173913" cy="85.20833333333333" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="420.8695652173913" cy="89.16666666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="440.4347826086956" cy="89.16666666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="460" cy="101.04166666666667" r="2" fill="#106cbc"/>
                             </g>
@@ -186,12 +186,12 @@
                                 <text transform="translate(10,6)" x="264.3478260869565" y="25.83333333333333" fill="rgba(127, 127, 127, .8)">20</text>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="10" fill="rgba(127, 127, 127, .8)">24</text>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="77.29166666666666" fill="rgba(127, 127, 127, .8)">7</text>
-                                <text transform="translate(10,6)" x="323.04347826086956" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">2</text>
+                                <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="342.60869565217394" y="69.375" fill="rgba(127, 127, 127, .8)">9</text>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="85.20833333333333" fill="rgba(127, 127, 127, .8)">5</text>
                                 <text transform="translate(10,6)" x="381.7391304347826" y="101.04166666666667" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="401.30434782608694" y="65.41666666666666" fill="rgba(127, 127, 127, .8)">10</text>
-                                <text transform="translate(10,6)" x="420.8695652173913" y="85.20833333333333" fill="rgba(127, 127, 127, .8)">5</text>
+                                <text transform="translate(10,6)" x="420.8695652173913" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">4</text>
                                 <text transform="translate(10,6)" x="440.4347826086956" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">4</text>
                                 <text transform="translate(10,6)" x="460" y="101.04166666666667" fill="rgba(127, 127, 127, .8)">1</text>
                             </g>
@@ -248,15 +248,15 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,101.724L41,13.276L72,52.586L103,16.552L134,10L165,55.862L196,78.793" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,78.793L165,55.862L134,10L103,16.552L72,52.586L41,13.276L10,101.724Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,101.724L41,13.276L72,52.586L103,16.552L134,10L165,65.69L196,78.793" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,78.793L165,65.69L134,10L103,16.552L72,52.586L41,13.276L10,101.724Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="101.72413793103448" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="13.275862068965512" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="52.58620689655173" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="16.551724137931036" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="10" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="55.86206896551724" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="65.6896551724138" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="78.79310344827586" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
@@ -265,7 +265,7 @@
                                     <text transform="translate(10,6)" x="72" y="52.58620689655173" fill="rgba(127, 127, 127, .8)">16</text>
                                     <text transform="translate(10,6)" x="103" y="16.551724137931036" fill="rgba(127, 127, 127, .8)">27</text>
                                     <text transform="translate(10,6)" x="134" y="10" fill="rgba(127, 127, 127, .8)">29</text>
-                                    <text transform="translate(10,6)" x="165" y="55.86206896551724" fill="rgba(127, 127, 127, .8)">15</text>
+                                    <text transform="translate(10,6)" x="165" y="65.6896551724138" fill="rgba(127, 127, 127, .8)">12</text>
                                     <text transform="translate(10,6)" x="196" y="78.79310344827586" fill="rgba(127, 127, 127, .8)">8</text>
                                 </g>
                             </svg>
@@ -276,74 +276,60 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-7.352,79.661L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-8.565,79.54L0,0Z">
                                         <title>Python
-38.63</title>
+44.35</title>
                                     </path>
-                                    <path fill="#384d54" d="M-8.347,79.563A80,80,0,0,1,-9.874,79.388L0,0Z">
+                                    <path fill="#384d54" d="M-9.558,79.427A80,80,0,0,1,-11.124,79.223L0,0Z">
                                         <title>Dockerfile
-0.23</title>
+0.27</title>
                                     </path>
-                                    <path fill="#427819" d="M-10.866,79.259A80,80,0,0,1,-14.166,78.736L0,0Z">
+                                    <path fill="#427819" d="M-12.114,79.078A80,80,0,0,1,-15.398,78.504L0,0Z">
                                         <title>Makefile
-0.50</title>
+0.57</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-15.149,78.553A80,80,0,0,1,-68.999,40.485L0,0Z">
+                                    <path fill="#3178c6" d="M-16.378,78.306A80,80,0,0,1,-69.794,39.099L0,0Z">
                                         <title>TSX
-10.17</title>
+11.68</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-69.5,39.62A80,80,0,0,1,-53.824,-59.186L0,0Z">
+                                    <path fill="#3178c6" d="M-70.278,38.224A80,80,0,0,1,-52.22,-60.606L0,0Z">
                                         <title>TypeScript
-16.17</title>
+18.57</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-53.08,-59.854A80,80,0,0,1,-5.701,-79.797L0,0Z">
+                                    <path fill="#f1e05a" d="M-51.458,-61.254A80,80,0,0,1,-3.371,-79.929L0,0Z">
                                         <title>JavaScript
-7.83</title>
+8.98</title>
                                     </path>
-                                    <path fill="#C1F12E" d="M-4.703,-79.862A80,80,0,0,1,-2.834,-79.95L0,0Z">
+                                    <path fill="#C1F12E" d="M-2.371,-79.965A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Batchfile
-0.28</title>
-                                    </path>
-                                    <path fill="#89e051" d="M-1.834,-79.979A80,80,0,0,1,-1.5,-79.986L0,0Z">
-                                        <title>Shell
-0.05</title>
-                                    </path>
-                                    <path fill="#e34c26" d="M-0.5,-79.998L0,0Z">
-                                        <title>HTML
-0.00</title>
+0.32</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(39.95171719696845,1.964762838984724)">
+                                    <text transform="translate(39.93558806984416,2.269097951989053)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">38.63</tspan>
+                                        <tspan x="0" y="1.1em">44.35</tspan>
                                     </text>
-                                    <text transform="translate(-4.5555119748291375,39.739744722974606)">
+                                    <text transform="translate(-5.170937481056709,39.664359386822355)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-6.25935359601283,39.507220764818186)">
+                                    <text transform="translate(-6.879392004118788,39.403984134268285)">
                                         <tspan x="0" y="0em" font-weight="bold">Makefile</tspan>
                                     </text>
-                                    <text transform="translate(-23.089641232391035,32.66295252666954)">
+                                    <text transform="translate(-23.66805693239027,32.24628786457649)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">10.17</tspan>
+                                        <tspan x="0" y="1.1em">11.68</tspan>
                                     </text>
-                                    <text transform="translate(-39.5058626333254,-6.2679197184411874)">
+                                    <text transform="translate(-39.34857030310014,-7.189576837477015)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">16.17</tspan>
+                                        <tspan x="0" y="1.1em">18.57</tspan>
                                     </text>
-                                    <text transform="translate(-15.517820846671528,-36.86729222726571)">
+                                    <text transform="translate(-14.48060054554357,-37.28689056277559)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">7.83</tspan>
+                                        <tspan x="0" y="1.1em">8.98</tspan>
                                     </text>
-                                    <text transform="translate(-1.8842497556689242,-39.95559538860936)">
+                                    <text transform="translate(-0.7178914286382971,-39.99355737986667)">
                                         <tspan x="0" y="0em" font-weight="bold">Batchfile</tspan>
-                                    </text>
-                                    <text transform="translate(-0.8334853722922362,-39.991315333884366)">
-                                        <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
-                                    </text>
-                                    <text transform="translate(-0.24999837239893433,-39.99921875254313)">
-                                        <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
                                 </g>
                             </svg>
