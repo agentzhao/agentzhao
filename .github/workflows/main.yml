@@ -33,7 +33,7 @@ jobs:
           # plugin_music_playlist: https://open.spotify.com/embed/playlist/05N3Hdz5JMlWt7YVu1laqh
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_limit: 14
+          plugin_music_limit: 5
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
@@ -44,6 +44,13 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_languages_limit: 8
           config_timezone: Asia/Singapore
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
