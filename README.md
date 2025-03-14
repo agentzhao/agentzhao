@@ -37,9 +37,9 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="45%" align="left">
-  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.plugin.topics.icons.svg" alt="Topics Icons" width="45%" align="left">
-  <div>
-    <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="45%" align="right">
+  <div width="45%" align="left">
+    <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.habits.svg" alt="Habits" width="45%" align="left">
+    <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.plugin.topics.icons.svg" alt="Topics Icons" width="45%" align="left">
   </div>
+  <img src="https://github.com/agentzhao/agentzhao/blob/main/metrics.music.svg" alt="Music" width="45%" align="right">
 </div>
